@@ -3,7 +3,13 @@ import 'dart:ui';
 final class AppColors {
   // main
   static const Color transparent = Color(0x00000000);
+  static const Color white = Color(0xFFFFFFFF);
   static const Color background = Color(0xFF0B1519);
+  static const Color grey1 = Color(0xFFE7E9EA);
+  static const Color grey2 = Color(0xFFB8BDBF);
+  static const Color black1 = Color(0xFF122329);
+  static const Color black2 = Color(0xFF0B1519);
+  static const Color whiteO10 = Color(0x1AFFFFFF);
 }
 
 // Transparency codes:

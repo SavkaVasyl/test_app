@@ -98,11 +98,11 @@ abstract class AppLocalizations {
     Locale('de'),
   ];
 
-  /// No description provided for @start.
+  /// No description provided for @myCollection.
   ///
   /// In en, this message translates to:
-  /// **'Start'**
-  String get start;
+  /// **'My collection'**
+  String get myCollection;
 }
 
 class _AppLocalizationsDelegate
